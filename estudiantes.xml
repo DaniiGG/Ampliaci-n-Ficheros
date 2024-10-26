@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Estudiantes>
+    <Estudiante>
+        <ID>1</ID>
+        <Nombre>Dani</Nombre>
+        <Apellido>Escobar</Apellido>
+        <Edad>20</Edad>
+        <Curso>2? Dam</Curso>
+    </Estudiante>
+    <Estudiante>
+        <ID>2</ID>
+        <Nombre>Ana</Nombre>
+        <Apellido>Escobar</Apellido>
+        <Edad>15</Edad>
+        <Curso>1? Bach</Curso>
+    </Estudiante>
+</Estudiantes>

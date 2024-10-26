@@ -1,0 +1,10 @@
+2023-10-01 12:00:01 INFO Application started successfully
+2023-10-01 12:05:22 WARNING Low memory detected
+2023-10-01 12:10:33 ERROR Unable to connect to database
+2023-10-01 12:11:10 INFO User logged in
+2023-10-01 12:15:42 ERROR Timeout occurred while accessing resource
+2023-10-01 12:20:01 WARNING High CPU usage detected
+2023-10-01 12:25:15 ERROR Invalid credentials provided
+2023-10-01 12:30:42 INFO Data processing completed
+2023-10-01 12:35:07 WARNING Disk space running low
+2023-10-01 12:40:50 ERROR File not found
